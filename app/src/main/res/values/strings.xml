@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="nombre">Wilson</string>
+    <string name="m">Masculino</string>
+    <string name="f">Femenino</string>
+
+    <string-array name="ciudades">
+        <item>Guayaquil</item>
+        <item>Quito</item>
+        <item>Playas</item>
+        <item>Salinas</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
